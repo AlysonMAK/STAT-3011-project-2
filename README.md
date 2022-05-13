@@ -7,7 +7,8 @@
 ### 2. [transformed numpy data]
 
 ## Code
-Data Scrap folder: the code used to for images scrapping
+Data Scrap folder: the code used to for images scrapping 
+
 Model folder: the code to fit models including KNN, SVM, LeNet, AlexNet and ResNet
 
 ## report
