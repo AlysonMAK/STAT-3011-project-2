@@ -3,8 +3,8 @@
 
 
 ## Data
-### 1. [Intel image dataset](https://drive.google.com/drive/folders/1d2qrliP_gJa1TB0ReBa58_roT1rHxbI3?usp=sharing) 
-### 2. [transformed numpy data](https://drive.google.com/drive/folders/1d2qrliP_gJa1TB0ReBa58_roT1rHxbI3?usp=sharing)
+### 1. [Intel image dataset (click here)](https://drive.google.com/drive/folders/1d2qrliP_gJa1TB0ReBa58_roT1rHxbI3?usp=sharing) 
+### 2. [transformed numpy data (click here)](https://drive.google.com/drive/folders/1d2qrliP_gJa1TB0ReBa58_roT1rHxbI3?usp=sharing)
 In numpy data, all images are changed to be dataframes with dimensions 224, 224 and 3. Therefore, it can be directly put into AlexNet and ResNet models
 
 ## Code
