@@ -8,13 +8,15 @@ This file contains raw data retrieved from Intel.
 In this npz file, all images are transfomed to dataframes with dimensions 224, 224 and 3. Therefore, it can be directly put into AlexNet and ResNet models.
 
 ## Code
-data collection: the code used to for images scrapping.
+(1) import_packages: the code to import packages relevant to our study
 
-convert_numpy: the code that transofroms row data to dataframes with dimensions 224, 224 and 3.
+(1) data collection: the code used to for images scrapping.
 
-Model folder: the code to fit models including KNN, SVM, LeNet, AlexNet and ResNet.
+(3) convert_numpy: the code that transofroms row data to dataframes with dimensions 224, 224 and 3.
 
-Notice that each ipynb file can be run directly after setting correct path.
+(4) Model folder: the code to fit models including KNN, SVM, LeNet, AlexNet and ResNet.
+
+! Notice that each ipynb file can be run directly after setting correct path and import all relevant packages.
 
 ## report
 Summary of of study
