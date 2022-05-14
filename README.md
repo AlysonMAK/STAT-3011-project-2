@@ -1,5 +1,4 @@
-# STAT-3011-project-2
-# Intel Image Classification
+# STAT-3011-project-2: Intel Image Classification
 
 
 ## Data
