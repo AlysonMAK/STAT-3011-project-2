@@ -8,7 +8,7 @@ This file contains raw data retrieved from Intel.
 In this npz file, all images are transfomed to dataframes with dimensions 224, 224 and 3. Therefore, it can be directly put into AlexNet and ResNet models.
 
 ## Code
-(1) import_packages: import packages relevant to our study
+(1) import_packages: the code to import packages relevant to our study
 
 (1) data collection: the code used to for images scrapping.
 
