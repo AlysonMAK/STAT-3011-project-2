@@ -3,6 +3,7 @@
 
 ## Data
 ### 1. [Intel image dataset (click here)](https://drive.google.com/drive/folders/1d2qrliP_gJa1TB0ReBa58_roT1rHxbI3?usp=sharing) 
+This file contains raw data retrieved from Intel
 ### 2. [transformed numpy data (click here)](https://drive.google.com/file/d/1P6G9zwQvKL7lEmDiiSZD8Z6SaxjivjAX/view?usp=sharing)
 In this npz file, all images are transfomed to dataframes with dimensions 224, 224 and 3. Therefore, it can be directly put into AlexNet and ResNet models
 
