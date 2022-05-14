@@ -9,7 +9,9 @@ In this npz file, all images are transfomed to dataframes with dimensions 224, 2
 
 ## Code
 data collection: the code used to for images scrapping.
-convert_numpy: the code that transofroms row data to dataframes with dimensions 224, 224 and 3. 
+
+convert_numpy: the code that transofroms row data to dataframes with dimensions 224, 224 and 3.
+
 Model folder: the code to fit models including KNN, SVM, LeNet, AlexNet and ResNet.
 
 ## report
