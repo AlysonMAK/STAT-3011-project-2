@@ -14,5 +14,7 @@ convert_numpy: the code that transofroms row data to dataframes with dimensions 
 
 Model folder: the code to fit models including KNN, SVM, LeNet, AlexNet and ResNet.
 
+Notice that each ipynb file can be run directly after setting correct path.
+
 ## report
 Summary of of study
