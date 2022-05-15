@@ -10,11 +10,11 @@ In this npz file, all images are transfomed to dataframes with dimensions 224, 2
 ## Code
 (1) import_packages: the code to import packages relevant to our study
 
-(1) data collection: the code used to for images scrapping.
+(2) data_collection: the code used to for images scrapping.
 
 (3) convert_numpy: the code that transofroms row data to dataframes with dimensions 224, 224 and 3.
 
-(4) Model folder: the code to fit models including KNN, SVM, LeNet, AlexNet and ResNet.
+(4) model building folder: the code to fit models including (a) KNN, (b) LeNet, (c) AlexNet and ResNet.
 
 ! Notice that each ipynb file can be run directly after setting correct path and import all relevant packages.
 
