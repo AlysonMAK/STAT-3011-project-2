@@ -14,7 +14,7 @@ In this npz file, all images are transfomed to dataframes with dimensions 224, 2
 
 (3) convert_numpy: the code that transofroms row data to dataframes with dimensions 224, 224 and 3.
 
-(4) Model folder: the code to fit models including (a) KNN, (b) SVM, (c) LeNet, (d) AlexNet and ResNet.
+(4) model building folder: the code to fit models including (a) KNN, (b) SVM, (c) LeNet, (d) AlexNet and ResNet.
 
 ! Notice that each ipynb file can be run directly after setting correct path and import all relevant packages.
 
