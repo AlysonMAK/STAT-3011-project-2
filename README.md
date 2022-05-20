@@ -19,4 +19,4 @@ In this npz file, all images are transfomed to dataframes with dimensions 224, 2
 ! Notice that each ipynb file can be run directly after setting correct path and import all relevant packages.
 
 ## report
-Summary of of study
+Summary of our study
